@@ -1,13 +1,17 @@
-/*      
- *  This file contains the main function for testing a set
- *  abstract data type for strings.
+/*
+ * File:        unique.c
  *
- *  The program takes two files as command line arguments, the
- *  second of which is optional.  All words in the first file
- *  are inserted into the set and the counts of total words and
- *  total words in the set are printed.  If the second file is
- *  given then all words in the second file are deleted from
- *  the set and the count printed.
+ * Copyright:	2017, Darren C. Atkinson
+ *      
+ * Description: This file contains the main function for testing a set
+ *  		abstract data type for strings.
+ *
+ *  		The program takes two files as command line arguments, the
+ *  		second of which is optional.  All words in the first file
+ *  		are inserted into the set and the counts of total words and
+ *  		total words in the set are printed.  If the second file is
+ *  		given then all words in the second file are deleted from
+ *  		the set and the count printed.
 */
 
 # include <stdio.h>
