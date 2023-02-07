@@ -1,5 +1,5 @@
-
-/*  This file contains the main function for testing a set
+/*
+ *  This file contains the main function for testing a set
  *  abstract data type for strings.  It is deliberately stupid.
  *
  *  The program takes a single file as a command line argument.
