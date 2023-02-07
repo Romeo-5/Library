@@ -1,5 +1,9 @@
 /*
- *  This file contains the public function and type
+ *  File:        parity.c
+ *
+ *  Copyright:	2017, Darren C. Atkinson
+ *
+ *  Description: This file contains the public function and type
  *  declarations for a set abstract data type for strings.  A
  *  set is an unordered collection of distinct elements.
 */
