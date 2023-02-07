@@ -1,4 +1,8 @@
 /*
+ *  File:        parity.c
+ *
+ *  Copyright:	2017, Darren C. Atkinson
+ *
  *  This file contains the main function for testing a set
  *  abstract data type for strings.  It is deliberately stupid.
  *
