@@ -1,15 +1,15 @@
 /*
- *  File:        parity.c
+ * File:        parity.c
  *
- *  Copyright:	2017, Darren C. Atkinson
+ * Copyright:	2017, Darren C. Atkinson
  *
- *  Description: This file contains the main function for testing a set
- *  abstract data type for strings.  It is deliberately stupid.
+ * Description: This file contains the main function for testing a set
+ *              abstract data type for strings.  It is deliberately stupid.
  *
- *  The program takes a single file as a command line argument.
- *  A set is used to maintain a collection of words that occur
- *  an odd number of times.  The counts of total words and
- *  words appearing an odd number of times are printed.
+ *              The program takes a single file as a command line argument.
+ *              A set is used to maintain a collection of words that occur
+ *              an odd number of times.  The counts of total words and
+ *              words appearing an odd number of times are printed.
 */
 
 # include <stdio.h>
