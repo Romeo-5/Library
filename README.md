@@ -1,6 +1,6 @@
 # Library
 
-This is my repository showcasing projects I have worked on or contributed to.
+This is a repository showcasing projects and coursework I have worked on. 
 
 Current projects included in repository:
 ###  1. Heart Disease Classification 
