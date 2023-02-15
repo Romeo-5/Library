@@ -8,6 +8,10 @@
   > It tests and improves the **scikit-learn RandomForestRegressor** regression model using **pandas, numPy, matplotlib, and scikit-learn** tools. Hyperparameters are tuned with scikit-learn's **RandomizedSearchCV**.  
 
 ###  3. SCU 
-  > A folder containing work from my courses at **Santa Clara University**: COEN 11 (Advanced Programming), COEN 12 (Abstract Data Types & Structures), COEN 161 (Web Development)
+  > A record of my work from several courses 
+### COEN 
+ * COEN 11 - Advanced Programming 
+ * COEN 12 - Abstract Data Types & Structures
+ * COEN 161 - Web Development 
 
   
