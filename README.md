@@ -9,4 +9,8 @@
 
 ###  3. SCU 
   > A folder containing work from my courses at **Santa Clara University**
+      * COEN 11
+      * COEN 12
+      * COEN 161
+
   
