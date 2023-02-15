@@ -1,5 +1,5 @@
 ## Romeo Nickel - Santa Clara University
-> A record of my work from several courses 
+A record of my work from several courses 
 
 ### COEN 
 > * COEN 11 - Advanced Programming 
