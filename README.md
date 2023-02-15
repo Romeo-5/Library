@@ -7,9 +7,9 @@
   > A **Jupyter Notebook** project that works to predict the price of bulldozers from a dataset provided by Kaggle (https://www.kaggle.com/c/bluebook-for-bulldozers/overview). 
   > It tests and improves the **scikit-learn RandomForestRegressor** regression model using **pandas, numPy, matplotlib, and scikit-learn** tools. Hyperparameters are tuned with scikit-learn's **RandomizedSearchCV**.  
 
-###  3. SCU 
+###  3. SCU (Santa Clara University)
   > A record of my work from several courses 
-### COEN 
+#### COEN 
  * COEN 11 - Advanced Programming 
  * COEN 12 - Abstract Data Types & Structures
  * COEN 161 - Web Development 
