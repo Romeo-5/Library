@@ -3,3 +3,4 @@
 >
 > * COEN 11 - Advanced Programming 
 > * COEN 12 - Abstract Data Types & Structures
+> * COEN 161 - Web Development 
